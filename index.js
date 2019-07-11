@@ -1,3 +1,3 @@
-function () {
-console.log(123);
+function （）{
+var aa = 123;
 }
